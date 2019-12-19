@@ -3,7 +3,7 @@ Vintage style oscillators for VCV Rack by Mockba the Borg
 
 ![Alt text](./screenshot.png)
 
-This oscillator collection contains a Casio CZ based oscillator with wave sequencing, and a Moog based oscillator also with wave sequencing, which allows for the creation of sounds that the original minimoog wasn't able to.<br>
+This oscillator collection contains a Casio CZ based oscillator with wave sequencing and a Moog based oscillator also with wave sequencing, which allows for the creation of sounds that the original minimoog wasn't able to.<br>
 The oscillators have selectors for the wave types on each of the two cycles as well as modulated shaping and v/oct modulated frequency.
 
 The wave knobs select which wave is going the be on each wave sequence step, meaning, if a saw and a square are selected, the output wave will have one saw cycle, then a square cycle, then saw again and so on.<br>
