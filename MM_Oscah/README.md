@@ -1,4 +1,4 @@
-# MM_Oscah
+# MM_Oscah - Special Vintage Oscillators
 Vintage style oscillators for VCV Rack by Mockba the Borg
 
 ![Alt text](./screenshot.png)
@@ -40,3 +40,6 @@ If the shape modulation input is connected the shape knob works as attenuation f
 The oscillators are both mathematical replicas of the original waveforms and sound very much like the originals.<br>
 They can be combined to create very interesting 2 or 3 oscillator synths.<br>
 They can also be combined with the other MockbaModular modules to build much more complex synth designs.
+
+Make sure to check also my free line of modules: MockbaModular
+https://github.com/MockbaTheBorg/MockbaModular
