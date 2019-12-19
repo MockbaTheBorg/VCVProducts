@@ -1,0 +1,70 @@
+{
+  "version": "1.1.6",
+  "modules": [
+    {
+      "id": 13,
+      "plugin": "MM_Oscah",
+      "version": "1.0.0",
+      "model": "CZOscah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        6,
+        0
+      ]
+    },
+    {
+      "id": 14,
+      "plugin": "MM_Oscah",
+      "version": "1.0.0",
+      "model": "MaugOscah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        0,
+        0
+      ]
+    }
+  ],
+  "cables": []
+}
