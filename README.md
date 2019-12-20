@@ -1,2 +1,2 @@
 # VCVProducts
-Information about my proprietary VCV modules
+Information about my commercial VCV modules
