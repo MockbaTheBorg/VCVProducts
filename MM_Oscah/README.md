@@ -41,5 +41,11 @@ The oscillators are both mathematical replicas of the original waveforms and sou
 They can be combined to create very interesting 2 or 3 oscillator synths.<br>
 They can also be combined with the other MockbaModular modules to build much more complex synth designs.
 
+## Bonus Oscillator
+I have added to this plugin also a "Mix Oscillator".
+This oscillator mixes together a sine, a square and a saw in order to build a more complex and interesting waveform.<br>
+When the modulation ports are connected, the mix knobs act as attenuators for the modulation signal.
+
+
 Make sure to check also my free line of modules: MockbaModular
 https://github.com/MockbaTheBorg/MockbaModular
