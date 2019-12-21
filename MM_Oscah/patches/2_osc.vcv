@@ -1,0 +1,409 @@
+{
+  "version": "1.1.6",
+  "modules": [
+    {
+      "id": 0,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "AudioInterface",
+      "params": [],
+      "leftModuleId": 221,
+      "rightModuleId": 218,
+      "data": {
+        "audio": {
+          "driver": 7,
+          "deviceName": "ASIO Link Pro",
+          "offset": 0,
+          "maxChannels": 8,
+          "sampleRate": 44100,
+          "blockSize": 256
+        }
+      },
+      "pos": [
+        27,
+        0
+      ]
+    },
+    {
+      "id": 216,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "MIDIToCVInterface",
+      "params": [],
+      "rightModuleId": 217,
+      "data": {
+        "channels": 4,
+        "polyMode": 0,
+        "clockDivision": 24,
+        "lastPitch": 8192,
+        "lastMod": 0,
+        "midi": {
+          "driver": -11,
+          "deviceName": "QWERTY keyboard (US)",
+          "channel": -1
+        }
+      },
+      "pos": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 217,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Octave",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 216,
+      "rightModuleId": 223,
+      "pos": [
+        8,
+        0
+      ]
+    },
+    {
+      "id": 218,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 14.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 0,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        37,
+        0
+      ]
+    },
+    {
+      "id": 221,
+      "plugin": "MockbaModular",
+      "version": "1.1.6",
+      "model": "Feidah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 222,
+      "rightModuleId": 0,
+      "pos": [
+        25,
+        0
+      ]
+    },
+    {
+      "id": 222,
+      "plugin": "MockbaModular",
+      "version": "1.1.6",
+      "model": "Shapah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.5
+        },
+        {
+          "id": 2,
+          "value": 0.5
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        }
+      ],
+      "leftModuleId": 224,
+      "rightModuleId": 221,
+      "pos": [
+        23,
+        0
+      ]
+    },
+    {
+      "id": 223,
+      "plugin": "MockbaModular",
+      "version": "1.1.6",
+      "model": "Shapah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.286999911
+        },
+        {
+          "id": 1,
+          "value": 0.678501189
+        },
+        {
+          "id": 2,
+          "value": 0.370999873
+        },
+        {
+          "id": 3,
+          "value": 0.5
+        }
+      ],
+      "leftModuleId": 217,
+      "rightModuleId": 225,
+      "pos": [
+        11,
+        0
+      ]
+    },
+    {
+      "id": 224,
+      "plugin": "MockbaModular",
+      "version": "1.1.6",
+      "model": "Mixah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.500498831
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 226,
+      "rightModuleId": 222,
+      "pos": [
+        21,
+        0
+      ]
+    },
+    {
+      "id": 225,
+      "plugin": "MM_Oscah",
+      "version": "1.0.1",
+      "model": "CZOscah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 5.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 223,
+      "rightModuleId": 226,
+      "pos": [
+        13,
+        0
+      ]
+    },
+    {
+      "id": 226,
+      "plugin": "MM_Oscah",
+      "version": "1.0.1",
+      "model": "MaugOscah",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        },
+        {
+          "id": 1,
+          "value": 4.0
+        },
+        {
+          "id": 2,
+          "value": 0.071999833
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0959999859
+        }
+      ],
+      "leftModuleId": 225,
+      "rightModuleId": 224,
+      "pos": [
+        17,
+        0
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 445,
+      "outputModuleId": 221,
+      "outputId": 0,
+      "inputModuleId": 0,
+      "inputId": 0,
+      "color": "#808080"
+    },
+    {
+      "id": 446,
+      "outputModuleId": 221,
+      "outputId": 0,
+      "inputModuleId": 0,
+      "inputId": 1,
+      "color": "#ffffff"
+    },
+    {
+      "id": 447,
+      "outputModuleId": 222,
+      "outputId": 0,
+      "inputModuleId": 221,
+      "inputId": 1,
+      "color": "#100f12"
+    },
+    {
+      "id": 448,
+      "outputModuleId": 216,
+      "outputId": 1,
+      "inputModuleId": 222,
+      "inputId": 0,
+      "color": "#803610"
+    },
+    {
+      "id": 449,
+      "outputModuleId": 216,
+      "outputId": 1,
+      "inputModuleId": 223,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 450,
+      "outputModuleId": 216,
+      "outputId": 6,
+      "inputModuleId": 223,
+      "inputId": 1,
+      "color": "#ff9941"
+    },
+    {
+      "id": 451,
+      "outputModuleId": 224,
+      "outputId": 0,
+      "inputModuleId": 221,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 452,
+      "outputModuleId": 225,
+      "outputId": 0,
+      "inputModuleId": 224,
+      "inputId": 2,
+      "color": "#0c8e15"
+    },
+    {
+      "id": 454,
+      "outputModuleId": 224,
+      "outputId": 0,
+      "inputModuleId": 218,
+      "inputId": 0,
+      "color": "#b700b5"
+    },
+    {
+      "id": 453,
+      "outputModuleId": 217,
+      "outputId": 0,
+      "inputModuleId": 225,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 455,
+      "outputModuleId": 216,
+      "outputId": 0,
+      "inputModuleId": 217,
+      "inputId": 0,
+      "color": "#808080"
+    },
+    {
+      "id": 456,
+      "outputModuleId": 223,
+      "outputId": 0,
+      "inputModuleId": 225,
+      "inputId": 0,
+      "color": "#ffffff"
+    },
+    {
+      "id": 457,
+      "outputModuleId": 223,
+      "outputId": 0,
+      "inputModuleId": 226,
+      "inputId": 0,
+      "color": "#100f12"
+    },
+    {
+      "id": 458,
+      "outputModuleId": 226,
+      "outputId": 0,
+      "inputModuleId": 224,
+      "inputId": 3,
+      "color": "#803610"
+    },
+    {
+      "id": 459,
+      "outputModuleId": 217,
+      "outputId": 0,
+      "inputModuleId": 226,
+      "inputId": 1,
+      "color": "#c91847"
+    }
+  ]
+}
