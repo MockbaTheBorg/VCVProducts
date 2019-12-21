@@ -41,7 +41,7 @@ The oscillators are both mathematical replicas of the original waveforms and sou
 They can be combined to create very interesting 2 or 3 oscillator synths.<br>
 They can also be combined with the other MockbaModular modules to build much more complex synth designs.
 
-## Videos
+## Demo Videos
 Playing a little bit with the oscillators: https://www.youtube.com/watch?v=tCkSUcXIc9c<br>
 Building a minimal two oscillator synth: https://www.youtube.com/watch?v=IgyOhRIIKWw<br>
 Showing the waveforms and some combinations: https://www.youtube.com/watch?v=oMDSIiI94pw
