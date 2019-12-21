@@ -43,7 +43,8 @@ They can also be combined with the other MockbaModular modules to build much mor
 
 ## Videos
 Playing a little bit with the oscillators: https://www.youtube.com/watch?v=tCkSUcXIc9c<br>
-Building a minimal two oscillator synth: https://www.youtube.com/watch?v=IgyOhRIIKWw
+Building a minimal two oscillator synth: https://www.youtube.com/watch?v=IgyOhRIIKWw<br>
+Showing the waveforms and some combinations: https://www.youtube.com/watch?v=oMDSIiI94pw
 
 ## Bonus Oscillator
 I have added to this plugin also a "Mix Oscillator".
