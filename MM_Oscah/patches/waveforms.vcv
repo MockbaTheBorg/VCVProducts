@@ -1,0 +1,281 @@
+{
+  "version": "1.1.6",
+  "modules": [
+    {
+      "id": 227,
+      "plugin": "MM_Oscah",
+      "version": "1.0.2",
+      "model": "CZOscah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": -19.1160011
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 228,
+      "pos": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 228,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 14.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 227,
+      "rightModuleId": 232,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        4,
+        0
+      ]
+    },
+    {
+      "id": 232,
+      "plugin": "MM_Oscah",
+      "version": "1.0.2",
+      "model": "MaugOscah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": -19.1159477
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 228,
+      "rightModuleId": 233,
+      "pos": [
+        17,
+        0
+      ]
+    },
+    {
+      "id": 233,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 14.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 232,
+      "rightModuleId": 234,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        21,
+        0
+      ]
+    },
+    {
+      "id": 234,
+      "plugin": "MM_Oscah",
+      "version": "1.0.2",
+      "model": "MixOscah",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": -19.4399967
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 233,
+      "rightModuleId": 235,
+      "pos": [
+        34,
+        0
+      ]
+    },
+    {
+      "id": 235,
+      "plugin": "Fundamental",
+      "version": "1.4.0",
+      "model": "Scope",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 14.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.149998188
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 234,
+      "data": {
+        "lissajous": 0,
+        "external": 0
+      },
+      "pos": [
+        38,
+        0
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 461,
+      "outputModuleId": 227,
+      "outputId": 0,
+      "inputModuleId": 228,
+      "inputId": 0,
+      "color": "#803610"
+    },
+    {
+      "id": 462,
+      "outputModuleId": 232,
+      "outputId": 0,
+      "inputModuleId": 233,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 463,
+      "outputModuleId": 234,
+      "outputId": 0,
+      "inputModuleId": 235,
+      "inputId": 0,
+      "color": "#ff9941"
+    }
+  ]
+}
