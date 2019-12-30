@@ -9,7 +9,7 @@ It brings together the Maug oscillators, the Filtah and other Mockba Modular com
 This plugin has a few advantages over the original, being polyphony one of them most interesting. Which makes it capable of very rich pad and strings sounds.
 
 ## Videos
-Playing with the very first version - https://www.youtube.com/watch?v=Dj0PI8nnWGs
+Playing with the very first version - https://www.youtube.com/watch?v=Dj0PI8nnWGs<br>
 Two copies playing together - https://www.youtube.com/watch?v=V68fIWNYj5s
 
 Make sure to check also my free line of modules: MockbaModular
