@@ -1,7 +1,12 @@
-# MM_ModelV - VCV emulation of the Minimoog Model D
-Vintage monophonic synth for VCV Rack by Mockba the Borg
+# MM_ModelV - Virtual Analog Synth for VCV Rack
+A tribute to a famous synthesizer from the 70's
 
 ![Alt text](./screenshot.png)
+
+This plugin is a virtual tribute to one famous synthesizer from the 70's, yes, that one that just came to your mind.<br>
+It brings together the Maug oscillators, the Filtah and other Mockba Modular components to create a full featured 3-Oscillator synthesizer.
+
+This plugin has a few advantages over the original, being polyphony one of them most interesting. Which makes it capable of very rich pad and strings sounds.
 
 ## Coming Soon
 
