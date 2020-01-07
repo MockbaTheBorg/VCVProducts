@@ -11,7 +11,8 @@ This plugin has a few advantages over the original, being polyphony one of the m
 ## Videos
 Playing with the very first version - https://www.youtube.com/watch?v=Dj0PI8nnWGs<br>
 Two copies playing together - https://www.youtube.com/watch?v=V68fIWNYj5s<br>
-First patch on the final version - https://www.youtube.com/watch?v=iZUiMvwpXZ4
+First patch on the final version - https://www.youtube.com/watch?v=iZUiMvwpXZ4<br>
+Playing some JMJ with the weird brother - https://www.youtube.com/watch?v=Vu5803V4OEc
 
 Make sure to check also my free line of modules: MockbaModular
 https://github.com/MockbaTheBorg/MockbaModular
