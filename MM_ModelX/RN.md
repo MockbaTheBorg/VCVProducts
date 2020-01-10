@@ -1,5 +1,8 @@
 ## Release Notes
 
+v 1.0.3 - Resolved more bugs:<br>
+  Modulation inputs were working only on the 1st channel.
+
 v 1.0.2 - Resolved some bugs:<br>
   Filter was going into deadlock.<br>
   LFO VC was not working.<br>
