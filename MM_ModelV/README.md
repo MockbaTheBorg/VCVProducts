@@ -14,5 +14,7 @@ Two copies playing together - https://www.youtube.com/watch?v=V68fIWNYj5s<br>
 First patch on the final version - https://www.youtube.com/watch?v=iZUiMvwpXZ4<br>
 Playing some JMJ with the weird brother - https://www.youtube.com/watch?v=Vu5803V4OEc
 
+Review by Omri Cohen: https://www.youtube.com/watch?v=M57WakUA63M
+
 Make sure to check also my free line of modules: MockbaModular
 https://github.com/MockbaTheBorg/MockbaModular
