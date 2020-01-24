@@ -46,6 +46,8 @@ Playing a little bit with the oscillators: https://www.youtube.com/watch?v=tCkSU
 Building a minimal two oscillator synth: https://www.youtube.com/watch?v=IgyOhRIIKWw<br>
 Showing the waveforms and some combinations: https://www.youtube.com/watch?v=oMDSIiI94pw
 
+Review by Omri Cohen: https://www.youtube.com/watch?v=TKgUkYLuOFI
+
 ## Bonus Oscillator
 I have added to this plugin also a "Mix Oscillator".
 This oscillator mixes together a sine, a square and a saw in order to build a more complex and interesting waveform.<br>

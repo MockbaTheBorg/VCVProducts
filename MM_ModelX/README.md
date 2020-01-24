@@ -12,5 +12,7 @@ This plugin has a few advantages over the original, being polyphony one of the m
 
 Playing some JMJ with the old brother: https://www.youtube.com/watch?v=Vu5803V4OEc
 
+Review by Omri Cohen: https://www.youtube.com/watch?v=M57WakUA63M
+
 Make sure to check also my free line of modules: MockbaModular
 https://github.com/MockbaTheBorg/MockbaModular
