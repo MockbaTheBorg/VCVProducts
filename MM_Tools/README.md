@@ -10,7 +10,7 @@ SMMix is a poly splitter/merger with a (knob) twist.
 SHEight is a set of 8 S&H on a single module.
 
 ## ASSprdr
-ASSprdr is a stereo spreader for poly signals.
+ASSprdr is an automatic stereo spreader for poly signals.
 
 ## Tuube
 Tuube is a simple saturator to immitate tube distortion.
