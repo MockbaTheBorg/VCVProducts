@@ -12,6 +12,9 @@ SHEight is a set of 8 S&H on a single module.
 ## ASSprdr
 ASSprdr is an automatic stereo spreader for poly signals.
 
+## The C Blocker
+A simple DC blocker
+
 ## Tuube
 Tuube is a simple saturator to immitate tube distortion.
 
