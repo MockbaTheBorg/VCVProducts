@@ -1,5 +1,5 @@
 # VCVProducts
-Information about my commercial and closed-source plugins for VCV Rack: https://vcvrack.com/plugins#Mockba
+Information about my commercial and closed-source plugins for VCV Rack: [https://vcvrack.com/plugins#Mockba](https://library.vcvrack.com/?query=&brand=Mockba+Modular)
 
 ### MM_ModelV
 Emulation of the Minimoog Model D.<br>
