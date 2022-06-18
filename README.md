@@ -10,7 +10,7 @@ Basically a Moog Model D with Casio CZ oscillators on it.<br>
 ![Alt text](./MM_ModelX/screenshot.png)
 
 ### MM_Proton
-Third iteration of the "Model" series, with different VCOs and filter.<br>
+Third iteration of the "Model" series, with PWM, different VCOs and filter.<br>
 ![Alt text](./MM_Proton/screenshot.png)
 
 ### MM_Oscah
